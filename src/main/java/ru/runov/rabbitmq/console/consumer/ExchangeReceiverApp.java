@@ -5,6 +5,7 @@ import com.rabbitmq.client.*;
 import java.io.BufferedReader;
 import java.io.InputStreamReader;
 
+
 public class ExchangeReceiverApp {
     private static final String EXCHANGE_NAME = "directExchanger";
 

@@ -8,6 +8,7 @@ import com.rabbitmq.client.ConnectionFactory;
 import java.io.BufferedReader;
 import java.io.InputStreamReader;
 
+
 public class ExchangeSenderApp {
     private static final String EXCHANGE_NAME = "directExchanger";
 
